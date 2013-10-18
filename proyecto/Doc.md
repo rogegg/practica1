@@ -28,18 +28,18 @@ La práctica se ha realizado con __PHP__ y HTML aprovechando la rápida integrac
 A continuación se muestran algunas capturas para aclarar el proceso:
 
 1. Registro en OpenShift: Lo primero que necesitamos es una cuenta en la plataforma.
->!["Registro"](registro_openshift)
+>!["Registro"](https://raw.github.com/rogegg/practica1/master/proyecto/capturas_pantalla/registro_openshift.png)
 
 2. Hacemos click en *Add application* y seleccionamos el módulo necesario. En nuestro caso el paquete de PHP5.3
->!["Anadir_aplicacion"](anadir_aplicacion)
->!["paquete_php"](seleccionar_paquete)
+>!["Anadir_aplicacion"](https://raw.github.com/rogegg/practica1/master/proyecto/capturas_pantalla/anadir_aplicacion.png)
+>!["paquete_php"](https://raw.github.com/rogegg/practica1/master/proyecto/capturas_pantalla/seleccionar_paquete.png)
 
 3. Elegir una dirección donde se publicará nuestra aplicación.
->!["direccion"](direccion_publica)
+>!["direccion"](https://raw.github.com/rogegg/practica1/master/proyecto/capturas_pantalla/direccion_publica.png)
 
 4. Una vez seleccionado el módulo y ya con una url para la aplicación, OpenShift nos proporcionará una dirección desde donde descargar el repositorio.
 
->!["clone"](direccion_repo)
+>!["clone"](https://raw.github.com/rogegg/practica1/master/proyecto/capturas_pantalla/paquetes_instalados.png)
 
 Como podemos ver arriba a la derecha *Source Code*.
 Este nos servirá para descargar el repositorio desde un terminal de la siguiente manera:
