@@ -122,17 +122,17 @@
     <div class="brand-text"><strong>Open</strong>Shift</div>
   </a>
   <h1>
-    Hello and Welcome to OpenShift!
+	Infraestructura Virtual
   </h1>
   <p>
-    Place your application here
+	Práctica 1
   </p>
   <p>
-    In order to commit to your new project, go to your projects git repo (created with the rhc app create command).  Make your changes, then run:
+	Primera práctica de la asignatura Infraestructura Virtual, 4º Curso del Grado en Ingeniería Informática.
   </p>
   <pre>
-    git commit -a -m 'Some commit message'
-    git push
+	Autor: Rogelio Gil García 
+    	   rogegg@correo.ugr.es
   </pre>
   <p>
     Then reload this page.
