@@ -4,7 +4,7 @@
 Durate el primer tema de la asignatura hemos conocido diferentes niveles de infraestructura virtual. En un nivel intermedio se encuentra el PaaS, que contiene infraestructura y una *pila de soluciones (solution stack)* completa que permite desplegar en el mismo nuestras propias aplicaciones.
 
 ###La plataforma: OpenShift
->!["OpenShift"](openshift)
+>!["OpenShift"](https://raw.github.com/rogegg/practica1/master/proyecto/capturas_pantalla/openshift.png)
 
 La plataforma elegida para la práctica es [OpenShift](https://www.openshift.com) ya que se ha trabajado con ella en la parte final del tema 1. OpenShift presta servicio para correr aplicaciones en varios lenguajes como pueden ser:
 
