@@ -1,3 +1,6 @@
-The OpenShift `php` cartridge documentation can be found at:
+Podemos ver el resultado de nuestra aplicación en:
 
-https://github.com/openshift/origin-server/tree/master/cartridges/openshift-origin-cartridge-php/README.md
+>[Práctica1](http://proyecto-ivejercicio14.rhcloud.com)
+
+La documentación se encuentra en:
+>[Documentación Práctica1]()
