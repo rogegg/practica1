@@ -1,3 +1,21 @@
+<!--
+  Esta archivo pertenece a la aplicación "Práctica1 IV" bajo licencia GPLv2.
+  Copyright (C) 2013 Rogelio Gil García.
+
+  Este programa es software libre. Puede redistribuirlo y/o modificarlo bajo los términos
+  de la Licencia Pública General de GNU según es publicada por la Free Software Foundation,
+  bien de la versión 2 de dicha Licencia o bien (según su elección) de cualquier versión
+  posterior.
+
+  Este programa se distribuye con la esperanza de que sea útil, pero SIN NINGUNA GARANTÍA,
+  incluso sin la garantía MERCANTIL implícita o sin garantizar la CONVENIENCIA PARA UN
+  PROPÓSITO PARTICULAR. Véase la Licencia Pública General de GNU para más detalles.
+
+  Debería haber recibido una copia de la Licencia Pública General junto con este programa.
+  Si no ha sido así, escriba a la Free Software Foundation, Inc., en 675 Mass Ave, Cambridge,
+  MA 02139, EEUU.
+-->
+
 <!doctype html>
 <html lang="en">
 <head>
@@ -140,7 +158,7 @@
   <pre>
 	Autor: Rogelio Gil García 
     	       <a href="mailto:rogegg@correo.ugr.es">rogegg@correo.ugr.es</a>
-						 <a href="https://github.com/rogegg">Repositorio personal</a>
+						 <a href="https://github.com/rogegg">Repositorios personales</a>
   </pre>
   <p>
 
