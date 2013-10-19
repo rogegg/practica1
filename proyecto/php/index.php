@@ -157,7 +157,8 @@ along with this program. If not, see <http://www.gnu.org/licenses/>
   <pre>
 	Autor: Rogelio Gil García 
     	       <a href="mailto:rogegg@correo.ugr.es">rogegg@correo.ugr.es</a>
-						 <a href="https://github.com/rogegg">Repositorios personales</a>
+
+    	       <a href="https://github.com/rogegg">Repositorios personales</a>
   </pre>
   <p>
 

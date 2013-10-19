@@ -11,7 +11,7 @@ La plataforma elegida para la práctica es [OpenShift](https://www.openshift.com
 * Java
 * PHP
 * Ruby 
-* Node.js 
+* Node.js
 * Python 
 * Perl
 * MySQL
@@ -70,6 +70,27 @@ Para subir los cambios en OpenShift y poder verlos en nuestra dirección de la a
 
 Como vemos funciona de forma similar a GitHub.
 
+Ahora ya conocemos la forma de descargar y actualizar los repositorios. ¡Ya estamos listos para trabajar en nuestra aplicación!
 
->5.Ahora ya conocemos la forma de descargar y actualizar los repositorios. ¡Ya estamos listos para trabajar en nuestra aplicación!
 
+
+
+###Código fuente y aplicación.
+
+Podemos ver el resultado de nuestra aplicación en:
+
+- [http://proyecto-ivejercicio14.rhcloud.com](http://proyecto-ivejercicio14.rhcloud.com)
+
+
+Código fuente alojado en el repositorio de GitHub:
+
+- [https://github.com/rogegg/practica1/blob/master/proyecto](https://github.com/rogegg/practica1/blob/master/proyecto)
+
+
+###Bibliografía
+
+- [https://www.openshift.com/developers/deploying-and-building-applications](https://www.openshift.com/developers/deploying-and-building-applications)
+
+- [http://www.youtube.com/watch?v=uBRhI4Rn7hQ](http://www.youtube.com/watch?v=uBRhI4Rn7hQ) (Live Demo of OpenShift Enterprise PaaS )
+
+- [http://cloud.dzone.com/articles/how-guide-hosting-openshift](http://cloud.dzone.com/articles/how-guide-hosting-openshift)
