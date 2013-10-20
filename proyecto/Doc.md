@@ -63,13 +63,14 @@ El árbol de directorios quedaría:
 >>>libs, misc,php (directorios necesarios para la aplicación)
 
 
-Para subir los cambios en OpenShift y poder verlos en nuestra dirección de la aplicación haremos, desde el terminal y dentro del directorio *.../Practica1/proyecto* (recordemos que es repositorio de OpenShift):
+Para subir los cambios en OpenShift y poder verlos en nuestra dirección de la aplicación haremos, desde el terminal y dentro del directorio *.../Practica1/proyecto/* (recordemos que es repositorio de OpenShift):
 
 >$ git commit -a -m "comentario"
 
 >$ git push
 
-Como vemos funciona de forma similar a GitHub.
+Para subir el código fuente de la aplicación a GitHub procederemos de la misma forma desde el directorio  del repositorio de GitHub *.../Practica1/*
+
 
 Ahora ya conocemos la forma de descargar y actualizar los repositorios. ¡Ya estamos listos para trabajar en nuestra aplicación!
 
