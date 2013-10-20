@@ -66,6 +66,7 @@ El árbol de directorios quedaría:
 Para subir los cambios en OpenShift y poder verlos en nuestra dirección de la aplicación haremos, desde el terminal y dentro del directorio *.../Practica1/proyecto* (recordemos que es repositorio de OpenShift):
 
 >$ git commit -a -m "comentario"
+
 >$ git push
 
 Como vemos funciona de forma similar a GitHub.
